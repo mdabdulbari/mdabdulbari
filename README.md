@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/abdul-bari-md/)
 
-I'm Abdul Bari. Software developer working with Javascript, React.js, Node.js.
+Software developer working with Javascript, React.js, Node.js.
 
 ## Open Source Contributions
 - Talisman: [PR](https://github.com/thoughtworks/talisman/pull/80/files)
